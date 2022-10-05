@@ -1,2 +1,1 @@
-# https-demo-media.sunbasket-staging.com-
-demo-media.sunbasket-staging.com/
+preview-build.www.stg.xfinity.com
